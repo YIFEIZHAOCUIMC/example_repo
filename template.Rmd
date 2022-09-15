@@ -10,9 +10,6 @@ date: "2022-09-13"
 library(tidyverse)
 library(knitr)
 ```
-# Section 1
-
-# Section 2
 
 # Section 3
 This is going to make a plot.
